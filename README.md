@@ -1,6 +1,6 @@
 <h1><b>Hi! Bem Vindo ao Meu Mundo!</b></h1>
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=abdulsaranga&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=AbdulSaranga&show_icons=true&theme=tokyonight">
   <br> <br>
   <b>Minhas Skills...</b>
   <br> <br>
