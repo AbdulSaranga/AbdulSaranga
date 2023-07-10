@@ -1,5 +1,7 @@
 <h1><b>Hi! Bem Vindo ao Meu Mundo!</b></h1>
 <div>
+ <img src="https://github-readme-stats.vercel.app/api?username=abdulsaranga&show_icons=true&theme=tokyonight">
+  <br> <br>
   <b>Minhas Skills...</b>
   <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="abdul-java" width="55px"/>
