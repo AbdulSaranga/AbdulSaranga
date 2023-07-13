@@ -13,6 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="abdul-php" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="abdul-msyql" width="60px"/>
  <br> <br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsaranga&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSaranga&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true">
 </div>
 
