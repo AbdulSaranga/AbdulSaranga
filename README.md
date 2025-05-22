@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Abdul Saranga**
 
-🌟 **Desenvolvedor de Software Full Stack**  
+🌟 **Desenvolvedor de Software**  
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia, arquitetura de sistemas e soluções que fazem a diferença no mundo. Sempre aprendendo, sempre construindo.
 
 ---
